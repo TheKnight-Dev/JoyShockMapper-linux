@@ -1,6 +1,7 @@
 #include "JoyShock.h"
 #include "InputHelpers.h"
 #include <algorithm>
+#include <iomanip>
 #define _USE_MATH_DEFINES
 #include <math.h> // M_PI
 
